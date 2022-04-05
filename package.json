@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-javascript-action",
+  "version": "1.0.0",
+  "description": "Having a good time following the instructions from here: https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bettymakes/hello-world-javascript-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bettymakes/hello-world-javascript-action/issues"
+  },
+  "homepage": "https://github.com/bettymakes/hello-world-javascript-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.1"
+  }
+}
